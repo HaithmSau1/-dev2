@@ -1,0 +1,11 @@
+C:\Users\Genosty\Desktop\airplan tecket\airplan tecket\bin\Debug\airplan tecket.exe.config
+C:\Users\Genosty\Desktop\airplan tecket\airplan tecket\bin\Debug\airplan tecket.exe
+C:\Users\Genosty\Desktop\airplan tecket\airplan tecket\bin\Debug\airplan tecket.pdb
+C:\Users\Genosty\Desktop\airplan tecket\airplan tecket\obj\Debug\airplan tecket.csprojAssemblyReference.cache
+C:\Users\Genosty\Desktop\airplan tecket\airplan tecket\obj\Debug\airplan_tecket.Form1.resources
+C:\Users\Genosty\Desktop\airplan tecket\airplan tecket\obj\Debug\airplan_tecket.Properties.Resources.resources
+C:\Users\Genosty\Desktop\airplan tecket\airplan tecket\obj\Debug\airplan tecket.csproj.GenerateResource.cache
+C:\Users\Genosty\Desktop\airplan tecket\airplan tecket\obj\Debug\airplan tecket.csproj.CoreCompileInputs.cache
+C:\Users\Genosty\Desktop\airplan tecket\airplan tecket\obj\Debug\airplan tecket.exe
+C:\Users\Genosty\Desktop\airplan tecket\airplan tecket\obj\Debug\airplan tecket.pdb
+C:\Users\Genosty\Desktop\airplan tecket\airplan tecket\obj\Debug\airplan_tecket.Form2.resources
